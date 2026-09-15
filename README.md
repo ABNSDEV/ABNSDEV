@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Ahmed 👋</h1>
 
 <p align="center">
   I build modern web and mobile applications.
