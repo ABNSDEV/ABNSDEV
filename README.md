@@ -52,10 +52,6 @@
 
 <br/>
 
-## 📚 Currently Learning
-
-- 🏗️ Backend architecture
-- 🧩 System design
 
 <br/>
 
